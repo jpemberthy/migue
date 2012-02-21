@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.1'
 gem 'heroku'
+gem 'nokogiri'
 
 group :development, :test do
   gem 'sqlite3'
